@@ -17,6 +17,6 @@ Repository for the HarvardX: CS50's Introduction to Programming with Python cour
 
 <div align="center">
 
-![](./Assets/CS50-python-certificate.jpg)
+![](./assets/CS50-python-certificate.jpg)
 
 </div>
