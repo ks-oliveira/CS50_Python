@@ -13,7 +13,7 @@ Repository for the HarvardX: CS50's Introduction to Programming with Python cour
 1. [File I/O](./07-file-I-O/)
 1. [Regular Expressions](./08-regular-expressions/)
 1. [Object-Oriented Program](./09-oop/)
-1. [Final Project - Kanpy](./09-oop/)
+1. [Final Project - Kanpy](./final_project/)
 
 <div align="center">
 
