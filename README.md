@@ -9,7 +9,7 @@ Repository for the HarvardX: CS50's Introduction to Programming with Python cour
 1. [Loops](./03-loops/)
 1. [Exceptions](./04-exceptions/)
 1. [Libraries](./05-libraries/)
-1. [Unit Tests](./06-unittests/)
+1. [Unit Tests](./06-unit-tests/)
 1. [File I/O](./07-file-I-O/)
 1. [Regular Expressions](./08-regular-expressions/)
 1. [Object-Oriented Program](./09-oop/)
