@@ -33,10 +33,10 @@ The following are the ways to interact with the board (case-insensitive):
 
 ## Screenshot of the command-line
 
-![Screenshot of the command-line running the Kanthon program. It shows the Kanban board and the actions user can do.](./Kanpy.PNG)
+![Screenshot of the command-line running the Kanpy program. It shows the Kanban board and the actions user can do.](./Kanpy.jpg)
 
 ## Usage
-To use this project you need to instal the folowing libraries:
+To use this project you need to instal the following libraries:
 
 ```python
 pip install tabulate
